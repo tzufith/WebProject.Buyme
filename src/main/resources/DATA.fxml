@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<config>
+    <browserType>Chrome</browserType>
+</config>
+<config>
+<URL>https://buyme.co.il/</URL>
+</config>
